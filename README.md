@@ -32,4 +32,4 @@
   
   
   
-### [Clic aqui para JUGAR<img align='center' width='70px' img src="https://cdn-icons-png.flaticon.com/512/4470/4470938.png">](https://cesarg-24.github.io/Challenge2_Alura_juego_ahorcado/)
+### [Clic aqui para JUGAR](https://cesarg-24.github.io/Challenge2_Alura_juego_ahorcado/)
